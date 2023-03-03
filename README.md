@@ -3,9 +3,9 @@
 <a href="https://www.linkedin.com/in/vkapantsou/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <div align="center">
- </div>
- <p>
- <hr>
+</div>
+<p>
+<hr>
  ## :hammer_and_wrench: Languages and Tools :
   <div>
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;

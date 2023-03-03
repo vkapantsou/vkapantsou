@@ -1,9 +1,9 @@
 
 ![result](https://user-images.githubusercontent.com/126060087/222709310-e64a9b24-d532-4e45-897d-468100809810.gif)
 <a href="https://www.linkedin.com/in/vkapantsou/">
-  ## - :telescope: I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.
-  ## - :seedling: I’m  engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing.
- ## - :mailbox:How to find me:<div id="badges">
+  # - :telescope: I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.
+  # - :seedling: I’m  engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing.
+ # - :mailbox:How to find me:<div id="badges">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <div align="center">
 </div>

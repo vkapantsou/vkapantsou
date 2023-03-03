@@ -1,14 +1,16 @@
 
 ![result](https://user-images.githubusercontent.com/126060087/222709310-e64a9b24-d532-4e45-897d-468100809810.gif)
-<a href="https://www.linkedin.com/in/vkapantsou/">
-  # - :telescope: I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.
-  # - :seedling: I’m  engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing.
- # - :mailbox:How to find me:<div id="badges">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+- :telescope: I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.
+
+- :seedling: I’m  engaged in self-education, learning programming languages, and improving my knowledge base in Automation testing.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vkapantsou/)
+   
+---
+  
 <div align="center">
-</div>
-<p>
-<hr>
+      <img src="https://bugza.info/wp-content/uploads/2020/05/InstantQA_Blogpost.jpg" width="1000" height="500"/>
+</div> 
  ## :hammer_and_wrench: Languages and Tools :
   <div>
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;

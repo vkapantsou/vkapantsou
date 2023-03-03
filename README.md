@@ -1,6 +1,7 @@
 
 ![result](https://user-images.githubusercontent.com/126060087/222709310-e64a9b24-d532-4e45-897d-468100809810.gif)
-<a href="https://www.linkedin.com/in/tahir-seidov/">
+## - :mailbox:How to find me:<div id="badges">
+  <a href="https://www.linkedin.com/in/sergei-kutnyi/">
  ## :hammer_and_wrench: Languages and Tools :
   <div>
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;

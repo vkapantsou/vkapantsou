@@ -1,21 +1,6 @@
 
 ![result](https://user-images.githubusercontent.com/126060087/222709310-e64a9b24-d532-4e45-897d-468100809810.gif)
-🛠 Technologies and tools I work with:
-🛠 Technologies and tools I work with:
-              
-
-                 
-
-              
-
-cwlogo                 
-
-              
-
-              
-
-           
-
+🛠 Technologies and tools I work with:PYTHON
 <!--
 **vkapantsou/vkapantsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

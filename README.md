@@ -10,7 +10,7 @@
   
 <div align="center">
 </div> 
-![81178b47a8598f0c81c4799f2cdd4057](https://user-images.githubusercontent.com/126060087/222715769-57a59f52-af8d-4ffb-bc16-2c07231e4fff.gif)
+(https://user-images.githubusercontent.com/126060087/222715769-57a59f52-af8d-4ffb-bc16-2c07231e4fff.gif)
 
  ## :hammer_and_wrench: Languages and Tools :
   <div>
